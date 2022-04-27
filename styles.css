@@ -234,3 +234,10 @@ font-family: britannic bold;
        .campo textarea{
            height: 20rem;
        } */
+       .contacto{
+        font-size: 23PX;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgba(0, 0, 0, 0.663);
+      }
+    
